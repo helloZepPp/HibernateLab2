@@ -23,7 +23,7 @@
         <hibernate.version>5.2.9.Final</hibernate.version>
         <hibernate-validator.version>5.4.0.Final</hibernate-validator.version>
         <hibernate.javax.persistence>1.0.0.Final</hibernate.javax.persistence>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
     <dependencies>
         <!--hibernate-->
